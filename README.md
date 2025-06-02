@@ -1,6 +1,6 @@
 ## **About me**
 
-- 💼 Quality Assurance at [InCicle](https://www.incicle.com/)
+- 💼 Full Stack Developer at [InCicle](https://www.incicle.com/)
 
 - 📈 Built projects from college, automated tests and manual testing
 
