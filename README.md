@@ -4,6 +4,7 @@ Squad lead and full stack engineer at [InCicle](https://www.incicle.com/), a mul
 
 - 🧩 Built the platform shell and the first micro frontend, and migrated 17 frontend apps to Vite
 - 📦 Created the internal kernel and build packages our micro frontends run on
+- 🎨 Created `@incicle/icons`, serving icons from a CDN so frontend bundles ship no SVG bytes
 - 🔐 Work on granular permissions and tenant isolation for sensitive HR data
 - 🌍 Open source contributor to [module-federation/vite](https://github.com/module-federation/vite/pulls?q=is%3Apr+author%3AGmendesfonseca+is%3Amerged)
 - 🤖 Ship with AI agents, backed by verification gates that can actually fail
